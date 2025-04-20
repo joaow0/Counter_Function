@@ -82,6 +82,7 @@ Working with increasing and decreasing loops using conditionals
 🚀 Autor | Author
 João Pedro Sabino
 Estudante de Análise e Desenvolvimento de Sistemas
+
 Apaixonado por programação, automação e segurança da informação
 
 Student of Systems Analysis and Development
